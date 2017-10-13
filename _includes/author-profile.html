@@ -26,7 +26,16 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li style="margin-bottom: 0px; height: 20px;"><a style="margin-bottom: 0px;" href="{{ author.employer_wb }}"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }} </a></li>
+      {% endif %}
+      {% if author.dpt %}
+        <li style="margin-bottom: 0px; height: 20px;"><a style="margin-bottom: 0px;" href="{{ author.dpt_wb }}"><i class="fa fa-fw" style="margin-bottom: 0px;" aria-hidden="true"></i> {{ author.dpt }} </a></li>
+      {% endif %}
+      {% if author.address_1 %}
+        <li style="margin-bottom: 0px;" ><i class="fa fa-fw" style="margin-bottom: 0px;" aria-hidden="true"></i> {{ author.address_1 }} </li>
+      {% endif %}
+      {% if author.address_2 %}
+        <li><i class="fa fa-fw" aria-hidden="true"></i> {{ author.address_2 }} </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
