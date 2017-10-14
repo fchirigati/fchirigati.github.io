@@ -11,7 +11,7 @@ title                    : "Fernando Chirigati"
 title_separator          : "-"
 name                     : &name "Fernando Chirigati"
 description              : &description "description"
-url                      : "" # http://fchirigati.github.io
+url                      : "http://fchirigati.github.io" # http://fchirigati.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fchirigati/fchirigati.github.io"
 teaser                   : 
