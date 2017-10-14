@@ -41,6 +41,10 @@
   }
 }
 
+.archive__item a {
+  text-decoration: underline;
+}
+
 /* remove border*/
 .page__content {
 
@@ -48,6 +52,14 @@
     margin-top: 1em;
     border-bottom: none;
   }
+}
+
+.archive__item p {
+  font-size: 0.9em;
+}
+
+.archive__item h2 {
+  font-size: 1em;
 }
 
 .archive__item-excerpt {

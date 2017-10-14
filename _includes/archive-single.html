@@ -26,7 +26,16 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <p>
+    <i><b>{{ post.title }}</b></i>, {{ post.authors }}. In {{ post.venue }}, {{ post.date | date: "%Y" }}
+
+    {% if post.notes %}
+      <br/> {{ post.notes }}
+    {% endif %}
+
+    </p>
+
+    <!--<h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -58,7 +67,7 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}
+    {% endif %}-->
 
   </article>
 </div>

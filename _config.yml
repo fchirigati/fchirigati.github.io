@@ -73,7 +73,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-36482962-1"
 
 
 # Site Author
@@ -89,7 +89,7 @@ author:
   address_1        : "2 MetroTech Center, 10th floor"
   address_2        : "Brooklyn, NY 11201"
   googlescholar    : "http://scholar.google.com/citations?user=iG3kO1QAAAAJ"
-  email            : "fchirigati@nyu.edu"
+  email            : "fchirigati [at] nyu [dot] edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "fernando-seabra-chirigati-3b726352"
+  linkedin         : "fchirigati"
   orcid            : "http://orcid.org/0000-0002-9566-5835"
   pinterest        :
   soundcloud       :
@@ -174,13 +174,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  professional:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -208,10 +205,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _professional
   - scope:
       path: ""
-      type: teaching
+      type: professional
     values:
       layout: single
       author_profile: true
@@ -226,15 +223,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -254,7 +242,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

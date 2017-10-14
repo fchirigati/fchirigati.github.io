@@ -32,16 +32,16 @@
         <li style="margin-bottom: 0px; height: 20px;"><a style="margin-bottom: 0px;" href="{{ author.dpt_wb }}"><i class="fa fa-fw" style="margin-bottom: 0px;" aria-hidden="true"></i> {{ author.dpt }} </a></li>
       {% endif %}
       {% if author.address_1 %}
-        <li style="margin-bottom: 0px;" ><i class="fa fa-fw" style="margin-bottom: 0px;" aria-hidden="true"></i> {{ author.address_1 }} </li>
+        <li style="margin-bottom: 0px; height: 20px;"><a style="margin-bottom: 0px; text-decoration: none" href=""><i class="fa fa-fw" style="margin-bottom: 0px;" aria-hidden="true"></i> {{ author.address_1 }} </a></li>
       {% endif %}
       {% if author.address_2 %}
-        <li><i class="fa fa-fw" aria-hidden="true"></i> {{ author.address_2 }} </li>
+        <li style="height: 20px;"><a style="margin-bottom: 0px; text-decoration: none" href=""><i class="fa fa-fw" aria-hidden="true"></i> {{ author.address_2 }} </a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a style="text-decoration: none" href=""><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ author.email }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
