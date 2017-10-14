@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a Ph.D. candidate at NYU Tandon School of Engineering, under the supervision of [Prof. Juliana Freire](http://vgc.poly.edu/~juliana/). I came to the beautiful - and very busy - city of New York in January 2012. Before, I worked as a Research Assistant at Federal University of Rio de Janeiro (UFRJ), under the supervision of [Prof. Marta Mattoso](http://www.cos.ufrj.br/~marta/). I have a B.E. from UFRJ, in Computer and Information Engineering. To check my full CV, click [here](/files/resume.pdf).
+Currently, I'm a Ph.D. candidate at NYU Tandon School of Engineering, under the supervision of [Prof. Juliana Freire](http://vgc.poly.edu/~juliana/). I came to the beautiful - and very busy - city of New York in January 2012. Before, I worked as a Research Assistant at Federal University of Rio de Janeiro (UFRJ), under the supervision of [Prof. Marta Mattoso](http://www.cos.ufrj.br/~marta/). I have a B.E. from UFRJ, in Computer and Information Engineering. To check out my full CV, click [here](/files/resume.pdf).
 
 I come from the gorgeous city of [Petr&oacute;polis](http://en.wikipedia.org/wiki/Petr%C3%B3polis), in Brazil, where almost all my family and friends still reside. I had the opportunity to study in [Rio de Janeiro](http://en.wikipedia.org/wiki/Rio_de_Janeiro), the "Marvelous City", where I not only made a lot of good friends, but also started working with research in the database area.
 
