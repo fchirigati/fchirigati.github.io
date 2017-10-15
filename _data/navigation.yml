@@ -17,6 +17,8 @@ main:
     
   - title: "Bio"
     url: /files/bio.txt
+    new_page: ""
     
   - title: "CV"
     url: /files/resume.pdf
+    new_page: ""
