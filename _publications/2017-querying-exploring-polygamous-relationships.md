@@ -7,5 +7,7 @@ date: 2017-01-01
 venue: 'Proceedings of the 2017 ACM SIGMOD International Conference on Management of Data (<b>SIGMOD</b>), pp. 1643-1646'
 paperurl: ''
 authors: 'Y. Chan, F. Chirigati, H. Doraiswamy, C. Silva and J. Freire'
-notes: '<i><b><a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/" target="_blank">Honorable Mention, SIGMOD Best Demonstration Award</a></b></i><br/>[<a href="http://dl.acm.org/authorize?N31076" target="_blank">paper</a>] [<a href="../files/papers/chan-sigmod2017.pdf" target="_blank">preprint</a>]'
+notes: '<i><a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/" target="_blank">Honorable Mention, SIGMOD Best Demonstration Award</a></i>'
+paper: 'http://dl.acm.org/authorize?N31076'
+preprint: '../files/papers/chan-sigmod2017.pdf'
 ---

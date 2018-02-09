@@ -7,5 +7,6 @@ date: 2014-01-01
 venue: 'Proceedings of the International Provenance and Annotation Workshop 2014 (<b>IPAW</b>), Poster Session'
 paperurl: ''
 authors: 'V. Cuevas-Vicentt&iacute;n, P. Kianmajd, B. Lud&auml;scher, P. Missier, F. Chirigati, Y. Wei, D. Koop, and S. Dey'
-notes: '[<a href="../files/papers/vicenttin-ipaw2014.pdf" target="_blank">paper</a>] [<a href="../files/posters/vicenttin-ipaw2014.pdf" target="_blank">poster</a>]'
+paper: '../files/papers/vicenttin-ipaw2014.pdf'
+poster: '../files/posters/vicenttin-ipaw2014.pdf'
 ---

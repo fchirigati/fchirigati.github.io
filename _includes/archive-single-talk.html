@@ -27,7 +27,7 @@
     {% endif %}
 
     <p>
-    <i><b>{{ post.title }}</b></i><br/>
+    <b>{{ post.title }}</b><br/>
     {{ post.venue }}<br/>
     {{ post.location }}, {{ post.date | date: "%B %Y" }}
 
@@ -35,20 +35,36 @@
       <br/> {{ post.notes }}
     {% endif %}
 
+    {% if post.presentation or post.poster or post.presentationpdf or post.presentationpptx or post.video or post.report or post.video1 or post.video2%}
+      <div class="btn-group-xs">
+        {% if post.presentation %}
+          <a class="btn btn-default" href="{{ post.presentation }}" target="_blank">presentation</a>
+        {% endif %}
+        {% if post.poster %}
+          <a class="btn btn-default" href="{{ post.poster }}" target="_blank">poster</a>
+        {% endif %}
+        {% if post.presentationpdf %}
+          <a class="btn btn-default" href="{{ post.presentationpdf }}" target="_blank">presentation (.pdf)</a>
+        {% endif %}
+        {% if post.presentationpptx %}
+          <a class="btn btn-default" href="{{ post.presentationpptx }}" target="_blank">presentation (.pptx)</a>
+        {% endif %}
+        {% if post.video %}
+          <a class="btn btn-default" href="{{ post.video }}" target="_blank">video</a>
+        {% endif %}
+        {% if post.report %}
+          <a class="btn btn-default" href="{{ post.report }}" target="_blank">report</a>
+        {% endif %}
+        {% if post.video1 %}
+          <a class="btn btn-default" href="{{ post.video1 }}" target="_blank">video (part 1)</a>
+        {% endif %}
+        {% if post.video2 %}
+          <a class="btn btn-default" href="{{ post.video2 }}" target="_blank">video (part 2)</a>
+        {% endif %}
+      </div>
+    {% endif %}
+
     </p>
 
-    <!--<h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}-->
   </article>
 </div>

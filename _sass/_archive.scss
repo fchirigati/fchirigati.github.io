@@ -56,7 +56,8 @@
 }
 
 .archive__item p {
-  font-size: 0.9em;
+  font-size: 0.87em;
+  margin-bottom: 3px;
 }
 
 .archive__item h2 {
@@ -90,6 +91,19 @@
   }
 }
 
+/* button */
+
+.archive__item .btn-group-xs a {
+  text-decoration: none;
+  padding: 3px 6px 3px 6px;
+  background-color: #FFFFFF !important;
+  color: #494E52 !important;
+  border: 1px solid #494E52 !important;
+}
+
+.archive__item .btn-group-xs a:hover {
+  background-color: #EEEEEE !important;
+}
 
 /*
    List view

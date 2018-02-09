@@ -7,5 +7,6 @@ date: 2013-01-01
 venue: 'Proceedings of the 2013 International Conference on Management of Data (<b>SIGMOD</b>), pp. 977-980'
 paperurl: ''
 authors: 'F. Chirigati, D. Shasha, and J. Freire'
-notes: '[<a href="http://dl.acm.org/authorize?N00688" target="_blank">paper</a>] [<a href="../files/posters/chirigati-sigmod2013.pdf" target="_blank">poster</a>]'
+paper: 'http://dl.acm.org/authorize?N00688'
+poster: '../files/posters/chirigati-sigmod2013.pdf'
 ---
