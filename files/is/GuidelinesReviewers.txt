@@ -1,0 +1,46 @@
+Invited Reproducibility Papers
+==============================
+
+The Reproducibility Section of Information Systems publishes articles and experiments that make it possible for readers to reproduce the experimental results presented in Information Systems articles. A paper describing the reproducibility effort will be co-authored by the original authors and the reproducibility reviewer(s).
+
+1.   Conducting a Review
+
+The same obligations regarding ethics, conflict of interest, and confidentially apply for the Reproducibility Section. The deliberations are strictly confidential, including the paper, software and data under review.
+
+Authors will be providing the software, together with the data and scripts that are responsible for the results presented in their paper. In addition, they will submit a description of the details of the software and all the required instructions to configure, run, and reproduce the results.
+
+2.   Review Process
+
+The review process lasts around 60 days and it is not blind. Authors are encouraged to engage in a discussion with reviewers about the extent to which the claims presented in the paper can be confirmed, and to which the provided software allows others to benefit from it.
+
+2.1. Initial Inspection
+
+Reviewers should do a quick initial inspection to verify that the submitted software and paper meet the required standards, and to detect show-stopping problems. Based on this review, authors should be allowed to correct any errors and provide any missing information on their software, if this can be done quickly.
+
+Reviewers are expected to verify that:
+
+- They have the required platform and computational environment to run the assigned experiment: if not, this must be immediately communicated to the editor;
+- The software is portable to a wide variety of platforms including platforms available to the reviewer;
+- Authors provided enough information and explanation about the software and its configuration in the reproducibility paper;
+- There is any missing code, data, or script;
+- The software can be compiled, installed, and run with no errors or major issues.
+
+In case there is something missing, reviewers should ask for a revision, describing in detail the computational environment to be used for their evaluation, any errors or issues they found, and any missing piece of information authors must provide.
+
+2.2. Core Evaluation
+
+Reviewers are expected to verify:
+
+- If the reproducibility paper is well-written and complete;
+- If the results presented in the paper, including plots and tables, can be reproduced;
+- If the claims written in the paper can be confirmed in the experiments (e.g.: if the paper claims that the software is a high-performance library, can this be verified in the experiments?);
+- If the results are robust to changes in the experiment configuration, if applicable (e.g.: changes in parameters and minor changes to data);
+- If the software is usable enough to allow others to benefit from it, by using that software as a subcomponent of a new system.
+
+Reviewers are not expected to review the original Information Systems article, as it will have been accepted for publication.
+
+Reviewers will grade the software to either accept or reject it, or ask for revision. After all reviews are in, they will try to reach a consensus on the overall grade of the software and reproducibility paper. In case a consensus cannot be reached, the editor will break ties.
+
+3.   After Acceptance
+
+The editor will incorporate a summary of the review discussion into the reproducibility paper, and the reviewers will become co-authors of the reproducibility paper. Reviewers are also welcome (and highly encouraged!) to add a section that states the extent to which the software is portable, is robust to changes, and is likely to be usable as a subcomponent or as a basis for comparison by future researchers.

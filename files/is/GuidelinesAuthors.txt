@@ -1,0 +1,62 @@
+Invited Reproducibility Papers
+==============================
+
+The Reproducibility Section of Information Systems publishes articles and experiments that make it possible for readers to reproduce the experimental results presented in Information Systems articles. An article describing the reproducibility effort will be co-authored by the original authors and the reproducibility reviewer(s).
+
+1.   Before you Begin
+
+Submission to the Reproducibility Section of Information Systems is by invitation only. Reproducibility papers conform to the same obligations as regular Information Systems articles regarding ethics, conflicts of interest, originality, authorship, copyright, and language.
+
+Our online submission system guides authors stepwise through the process of entering the reproducibility paper. The system converts article files to a single PDF file used in the peer-review process. All correspondence, including notification of the editor's decision and requests for revision, is sent by e-mail.
+
+Reproducible experiments are submitted through Mendeley Data, which assigns a Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/) to all the files. It is the authors' responsibility to ensure that the submitted software and data do not violate the licensing agreement, and that datasets respect ethical guidelines on data protection and privacy.
+
+2.   Preparation
+
+Authors of invited papers should submit: (i) the software that is necessary to reproduce the experiments (i.e., system under test, data generation scripts, experimentation scripts, plot generation scripts, etc.) together with the original datasets, input files, and parameters used; and (ii) a reproducibility paper that contains instructions for running experiments and for producing the plots or tables contained in the paper.
+
+2.1. Software
+
+The source code for the software components *must* be submitted together with installation scripts. If the code lives in a repository hosting service, in addition to submitting the source code files, authors can also provide the URL together with an identifier for the version used in the paper (e.g.: version number, commit id, etc.). We suggest authors to host their code in GitHub: a how-to tutorial is available here (https://guides.github.com/introduction/getting-your-project-on-github/).
+
+In addition to the source code, we recommend authors to submit a virtual machine, where all appropriate software components are readily installed and can be reproduced on a wide variety of platforms. To produce lightweight packages, we encourage authors to submit their experiments using either ReproZip (https://www.reprozip.org/) or Docker (https://www.docker.com/).
+
+All the input data and parameters used by the software must be included. Additionally, we encourage authors to include the raw output data that contains the results presented in the paper; this makes it easier for reviewers to compare the outputs.
+
+2.2. Reproducibility Paper
+
+The reproducibility paper must contain a detailed description of the submitted software, including:
+
+- Details about the computational environment originally used;
+- Explanations about the different data and input parameters that can be used, i.e., explanations on how someone can vary the experiment configuration;
+- Instructions for installing and compiling the software (even if a virtual machine with all the installed software is provided);
+- Instructions for running the experiments and producing the plots and tables contained in the paper;
+- Description of the settings (e.g.: system parameters and workload characteristics) in which the original results do or do not hold;
+- Limitations of the software execution, if any;
+- Any other useful information regarding the software.
+
+The article should have up to 8 pages and follow the formatting guidelines for regular Information Systems articles, including a title and an abstract. The original paper and the tools used in the reproducibility process should be added to the references section. Authors are encouraged to add discussion sections about the process of making their experiment reproducible.
+
+3.   Submission
+
+3.1. Software
+
+All the software and data needed to reproduce the experimental results must be first published through Mendeley Data (https://data.mendeley.com/) as a single dataset. After publishing the dataset, authors must include the corresponding link and the dataset version in the reproducibility report. Note that Mendeley Data has a limit of 10 Gb for file, but multiple files can be submitted in a single dataset. Should there be any issues with packaging and size limit, please contact the responsible editor.
+
+3.2. Reproducibility Paper
+
+Authors should select the issue "Invited Reproducibility Paper" when submitting the paper at http://www.evise.com/evise/faces/pages/navigation/NavController.jspx?JRNL_ACR=IS.
+
+4.   Review Process
+
+The goal of the review process is twofold: (i) verify if the results presented in the paper can be reproduced (i.e.: verify if the claims in the paper can be confirmed), and (ii) see how robust the results are to changes in the experiment configuration (i.e.: verify if the software is usable enough to allow others to benefit from it). Therefore, "reproducibility" encompasses both strict repeatability and a measure of versatility and modifiability, which is essential to promote the reuse of software assets; that’s why it is important that the submitted paper explains in detail how one can vary the experiment settings.
+
+Reviewers may ask for a revision if the submitted software and paper does not meet the required standards, or if any show-stopping problems were detected. This allows authors to correct any errors and provide any missing information on their software, if this can be done quickly. As an example, reviewers will check if all the necessary instructions are available, if all the parameters and different settings are explained, and if there is any problem in installing, compiling, and running the experiment and provided scripts.
+
+The review process is not blind. Authors and reviewers are encouraged to engage in a discussion about the extent to which experimental results contained in the original paper can be reproduced.
+
+5.   After Acceptance
+
+Authors follow reviewers’ suggestions to improve their software specification and paper. The editor will incorporate a summary of the review discussion into the reproducibility paper, and the reviewers will become co-authors of the reproducibility paper. Reviewers can also add a section on their experience on reproducing the artifact.
+
+The paper will be published in the Reproducibility Section of Information Systems following the same procedure as regular papers. The software and datasets will be maintained in Mendeley Data, and a reference to the dataset will be created for the reproducibility report.
