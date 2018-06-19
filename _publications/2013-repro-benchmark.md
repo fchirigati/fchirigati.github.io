@@ -7,5 +7,5 @@ date: 2013-01-01
 venue: 'IEEE Data Engineering Bulletin, 36(4), pp. 54-59'
 paperurl: ''
 authors: 'F. Chirigati, M. Troyer, D. Shasha, and J. Freire'
-paper: 'ftp://ftp.research.microsoft.com/pub/debull/A13dec/p54.pdf'
+paper: 'http://sites.computer.org/debull/A13dec/p54.pdf'
 ---
