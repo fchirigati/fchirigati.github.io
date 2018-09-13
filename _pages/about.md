@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a Ph.D. candidate at NYU Tandon School of Engineering, under the supervision of <a href="http://vgc.poly.edu/~juliana/" target="_blank">Prof. Juliana Freire</a>. I came to the beautiful - and very busy - city of New York in January 2012. Before, I worked as a Research Assistant at Federal University of Rio de Janeiro (UFRJ), under the supervision of <a href="http://www.cos.ufrj.br/~marta/" target="_blank">Prof. Marta Mattoso</a>. I have a B.E. from UFRJ, in Computer and Information Engineering. To check out my full CV, click <a href="/files/resume.pdf" target="_blank">here</a>.
+Currently, I'm a Postdoctoral Research Associate at NYU Tandon School of Engineering, under the supervision of <a href="http://vgc.poly.edu/~juliana/" target="_blank">Prof. Juliana Freire</a>. I came to the beautiful - and very busy - city of New York in January 2012 to pursue a Ph.D. degree. Before, I worked as a Research Assistant at Federal University of Rio de Janeiro (UFRJ), under the supervision of <a href="http://www.cos.ufrj.br/~marta/" target="_blank">Prof. Marta Mattoso</a>. I have a B.E. from UFRJ, in Computer and Information Engineering. To check out my full CV, click <a href="/files/resume.pdf" target="_blank">here</a>.
 
 I come from the gorgeous city of <a href="http://en.wikipedia.org/wiki/Petr%C3%B3polis" target="_blank">Petr&oacute;polis</a>, in Brazil, where almost all my family and friends still reside. I had the opportunity to study in <a href="http://en.wikipedia.org/wiki/Rio_de_Janeiro" target="_blank">Rio de Janeiro</a>, the "Marvelous City", where I not only made a lot of good friends, but also started working with research in the database area.
 
@@ -19,6 +19,8 @@ My research interests are mainly in the area of scientific data management, incl
 
 Some of the projects on which I'm currently working are:
 
+* **Streamlining Model Design, Comparison, and Curation**: Developing automated model discovery systems that
+enable users with subject matter expertise but no data science background to create empirical models of real, complex processes.
 * **Urban Data Management and Analytics**: Understanding the urban environment by efficiently analyzing the numerous interactions among large spatio-temporal urban data (e.g.: <a href="https://github.com/ViDA-NYU/data-polygamy" target="_blank">Data Polygamy</a>).
 * **<a href="http://www.reproduciblescience.org/" target="_blank">Reproducibility in Science</a>**: Infrastructure to facilitate the creation, reuse, and sharing of reproducible computational experiments (e.g.: <a href="https://www.reprozip.org/" target="_blank">ReproZip</a>, <a href="https://github.com/gems-uff/noworkflow" target="_blank">noWorkflow</a>).
 
