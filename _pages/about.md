@@ -19,7 +19,7 @@ My research interests are mainly in the area of scientific data management, incl
 
 Some of the projects on which I'm currently working are:
 
-* **Streamlining Model Design, Comparison, and Curation**: Developing automated model discovery systems that
+* **<a href="https://www.darpa.mil/program/data-driven-discovery-of-models" target="_blank">Streamlining Model Design, Comparison, and Curation</a>**: Developing automated model discovery systems that
 enable users with subject matter expertise but no data science background to create empirical models of real, complex processes.
 * **Urban Data Management and Analytics**: Understanding the urban environment by efficiently analyzing the numerous interactions among large spatio-temporal urban data (e.g.: <a href="https://github.com/ViDA-NYU/data-polygamy" target="_blank">Data Polygamy</a>).
 * **<a href="http://www.reproduciblescience.org/" target="_blank">Reproducibility in Science</a>**: Infrastructure to facilitate the creation, reuse, and sharing of reproducible computational experiments (e.g.: <a href="https://www.reprozip.org/" target="_blank">ReproZip</a>, <a href="https://github.com/gems-uff/noworkflow" target="_blank">noWorkflow</a>).
