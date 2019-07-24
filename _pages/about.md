@@ -21,8 +21,8 @@ Some of the projects on which I'm currently working are:
 
 * **<a href="https://www.darpa.mil/program/data-driven-discovery-of-models" target="_blank">Streamlining Model Design, Comparison, and Curation</a>**: Developing automated model discovery systems that
 enable users with subject matter expertise but no data science background to create empirical models of real, complex processes.
-* **Urban Data Management and Analytics**: Understanding the urban environment by efficiently analyzing the numerous interactions among large spatio-temporal urban data (e.g.: <a href="https://github.com/ViDA-NYU/data-polygamy" target="_blank">Data Polygamy</a>).
 * **<a href="http://www.reproduciblescience.org/" target="_blank">Reproducibility in Science</a>**: Infrastructure to facilitate the creation, reuse, and sharing of reproducible computational experiments (e.g.: <a href="https://www.reprozip.org/" target="_blank">ReproZip</a>, <a href="https://github.com/gems-uff/noworkflow" target="_blank">noWorkflow</a>).
+* **Urban Data Management and Analytics**: Understanding the urban environment by efficiently analyzing the numerous interactions among large spatio-temporal urban data (e.g.: <a href="https://github.com/ViDA-NYU/data-polygamy" target="_blank">Data Polygamy</a>).
 * **<a href="https://savingjournalism.reprozip.org/" target="_blank">Saving Data Journalism</a>**: Developing a prototype to enable systematic collection and preservation of dynamic news websites.
 
 I am also Reproducibility Editor for the <a href="http://www.journals.elsevier.com/information-systems/" target="_blank">Information Systems Journal, Elsevier North-Holland</a>.
@@ -32,6 +32,7 @@ Please refer to my list of [publications](/publications/) and [professional acti
 Awards and Honors
 ------
 
+* **Invitation to <a href="https://www.heidelberg-laureate-forum.org/" target="_blank">the 7th Heidelberg Laureate Forum</a>**: Only the 200 most qualified young researchers are given the opportunity to attend the Heidelberg Laureate Forum, an event where young researchers can personally meet the winners of the most prestigious prizes in Computer Science and Mathematics.
 * **<a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/" target="_blank">Honorable Mention, SIGMOD 2017 Best Demonstration Award</a>**: our demo *Querying and Exploring Polygamous Relationships in Urban Spatio-Temporal Data Sets* received a honorable mention (8 out of 31 demos).
 * **<a href="http://db-reproducibility.seas.harvard.edu/awards/" target="_blank">SIGMOD 2017 Most Reproducible Paper Award</a>**: our paper *Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets* was selected one of the most reproducible papers across several criteria of the SIGMOD 2016 papers.
 * **SIGMOD 2017 Student Travel Award**
