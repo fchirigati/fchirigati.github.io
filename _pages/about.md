@@ -15,7 +15,7 @@ I come from the gorgeous city of <a href="http://en.wikipedia.org/wiki/Petr%C3%B
 Research
 ------
 
-My research interests are mainly in the area of scientific data management, including **provenance management and analytics**, **large-scale data analytics**, **data mining**, **reproducibility**, and **data visualization**.
+My research interests are mainly in the area of scientific data management, including **provenance management and analytics**, **large-scale data analytics**, **data science**, **data mining**, **reproducibility**, and **data visualization**.
 
 Some of the projects on which I'm currently working are:
 
