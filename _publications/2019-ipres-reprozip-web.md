@@ -7,6 +7,5 @@ date: 2019-01-01
 venue: 'LIS Scholarship Archive, doi:10.31229/osf.io/khtdr'
 paperurl: ''
 authors: 'K. Boss, V. Steeves, R. Rampin, F. Chirigati, and B. Hoffman'
-notes: '<i>Accepted for Publication</i>'
 paper: 'http://dx.doi.org/10.31229/osf.io/khtdr'
 ---
