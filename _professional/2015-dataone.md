@@ -1,0 +1,8 @@
+---
+title: "Working Group Member"
+collection: professional
+type: ""
+permalink: /professional/2015-dataone
+venue: '<a href="https://www.dataone.org/working_groups/scientific-workflows-and-provenance-working-group" target="_blank">DataONE Scientific Workflows and Provenance Working Group</a>'
+date: 2015-01-01
+---
