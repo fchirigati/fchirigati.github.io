@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm the chief editor of a new Nature Research journal to be launched in Janurary 2021, called *Nature Computational Science*. The journal will focus on both fundamental and applied research related to computational methods, algorithms, and tools that are developed across a range of scientific disciplines to help solve challenging, real-world problems. More information coming soon!
+Currently, I'm the chief editor of a new Nature Research journal to be launched in January 2021, called *Nature Computational Science*. The journal will focus on both fundamental and applied research related to computational methods, algorithms, and tools that are developed across a range of scientific disciplines to help solve challenging, real-world problems. More information coming soon!
 
 Before, I was a Postdoctoral Research Associate at <a href="https://engineering.nyu.edu/" target="_blank">NYU Tandon School of Engineering</a>, under the supervision of <a href="http://vgc.poly.edu/~juliana/" target="_blank">Prof. Juliana Freire</a>. I came to the beautiful - and very busy - city of New York in January 2012 to pursue a Ph.D. degree. Before coming to New York, I worked as a Research Assistant at Federal University of Rio de Janeiro (UFRJ), under the supervision of <a href="http://www.cos.ufrj.br/~marta/" target="_blank">Prof. Marta Mattoso</a>. I have a Ph.D. in Computer Science from NYU, and a B.E. in Computer and Information Engineering from UFRJ. To check out my full CV, click <a href="/files/resume.pdf" target="_blank">here</a>.
 
