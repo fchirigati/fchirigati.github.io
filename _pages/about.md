@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a Postdoctoral Research Associate at <a href="https://engineering.nyu.edu/" target="_blank">NYU Tandon School of Engineering</a>, under the supervision of <a href="http://vgc.poly.edu/~juliana/" target="_blank">Prof. Juliana Freire</a>. I came to the beautiful - and very busy - city of New York in January 2012 to pursue a Ph.D. degree. Before, I worked as a Research Assistant at Federal University of Rio de Janeiro (UFRJ), under the supervision of <a href="http://www.cos.ufrj.br/~marta/" target="_blank">Prof. Marta Mattoso</a>. I have a Ph.D. in Computer Science from NYU, and a B.E. in Computer and Information Engineering from UFRJ. To check out my full CV, click <a href="/files/resume.pdf" target="_blank">here</a>.
+Currently, I'm the chief editor of a new Nature Research journal to be launched in Janurary 2021, called *Nature Computational Science*. The journal will focus on both fundamental and applied research related to computational methods, algorithms, and tools that are developed across a range of scientific disciplines to help solve challenging, real-world problems. More information coming soon!
+
+Before, I was a Postdoctoral Research Associate at <a href="https://engineering.nyu.edu/" target="_blank">NYU Tandon School of Engineering</a>, under the supervision of <a href="http://vgc.poly.edu/~juliana/" target="_blank">Prof. Juliana Freire</a>. I came to the beautiful - and very busy - city of New York in January 2012 to pursue a Ph.D. degree. Before coming to New York, I worked as a Research Assistant at Federal University of Rio de Janeiro (UFRJ), under the supervision of <a href="http://www.cos.ufrj.br/~marta/" target="_blank">Prof. Marta Mattoso</a>. I have a Ph.D. in Computer Science from NYU, and a B.E. in Computer and Information Engineering from UFRJ. To check out my full CV, click <a href="/files/resume.pdf" target="_blank">here</a>.
 
 I come from the gorgeous city of <a href="http://en.wikipedia.org/wiki/Petr%C3%B3polis" target="_blank">Petr&oacute;polis</a>, in Brazil, where almost all my family and friends still reside. I had the opportunity to study in <a href="http://en.wikipedia.org/wiki/Rio_de_Janeiro" target="_blank">Rio de Janeiro</a>, the "Marvelous City," where I not only made a lot of good friends, but also started working with research in the database area.
 
 Research
 ------
 
-My research interests are mainly in the area of scientific data management, including **provenance management and analytics**, **large-scale data analytics**, **data science**, **data mining**, **reproducibility**, and **data visualization**.
+Throughout the course of my Ph.D. and Postdoc, my research focus was mainly in the area of scientific data management, including **provenance management and analytics**, **large-scale data analytics**, **data science**, **data mining**, **reproducibility**, and **data visualization**.
 
-Some of the projects on which I'm currently working are:
+Some of the projects I've worked on in the past are:
 
 * **<a href="https://www.darpa.mil/program/data-driven-discovery-of-models" target="_blank">Streamlining Model Design, Comparison, and Curation</a>**: Developing automated model discovery systems that
 enable users with subject matter expertise but no data science background to create empirical models of real, complex processes.
@@ -25,7 +27,7 @@ enable users with subject matter expertise but no data science background to cre
 * **Urban Data Management and Analytics**: Understanding the urban environment by efficiently analyzing the numerous interactions among large spatio-temporal urban data (e.g.: <a href="https://github.com/ViDA-NYU/data-polygamy" target="_blank">Data Polygamy</a>).
 * **<a href="https://savingjournalism.reprozip.org/" target="_blank">Saving Data Journalism</a>**: Developing a prototype to enable systematic collection and preservation of dynamic news websites.
 
-I am also Reproducibility Editor for the <a href="http://www.journals.elsevier.com/information-systems/" target="_blank">Information Systems Journal, Elsevier North-Holland</a>.
+I was also Reproducibility Editor for the <a href="http://www.journals.elsevier.com/information-systems/" target="_blank">Information Systems Journal, Elsevier North-Holland</a>.
                 
 Please refer to my list of [publications](/publications/) and [professional activities](/professional/) for more details.
 

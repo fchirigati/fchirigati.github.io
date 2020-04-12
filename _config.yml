@@ -80,18 +80,18 @@ analytics:
 author:
   name             : "Fernando Chirigati"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Associate"
+  bio              : "Chief Editor, Nature Computational Science"
   location         : 
-  employer_1       : "NYU Tandon School of Engineering"
-  employer_wb_1    : "http://engineering.nyu.edu/"
-  employer_2       : "VIDA Research Center"
-  employer_wb_2    : "https://vida.engineering.nyu.edu/"
+  employer_1       : "Springer Nature"
+  employer_wb_1    : "https://www.springernature.com/gp"
+#  employer_2       : "VIDA Research Center"
+#  employer_wb_2    : "https://vida.engineering.nyu.edu/"
 #  dpt              : "CSE Department"
 #  dpt_wb           : "http://engineering.nyu.edu/academics/departments/computer-science-engineering"
-  address_1        : "370 Jay Street, 11th Floor"
-  address_2        : "Brooklyn, NY 11201"
+  address_1        : "One New York Plaza, Suite 4500"
+  address_2        : "New York, NY 10004"
   googlescholar    : "http://scholar.google.com/citations?user=iG3kO1QAAAAJ"
-  email            : "fchirigati [at] nyu [dot] edu"
+  email            : "fernando [dot] chirigati [at] us [dot] nature [dot] com"
   uri              :
   bitbucket        :
   codepen          :
